@@ -1,3 +1,14 @@
 # You can call me Rob
 
-<img src="[![image](https://github.com/4GeeksAcademy/roberttovarv/assets/155775143/06a9a1d8-62bf-4dc2-b1aa-16d2330180b6)](https://nautalis.net/extras/imagenes/2023/nautalis.es.vKUsfNybwu32XPJYmk8fjRCe6lUAURnxrqWmDDjb5PBvXSxcfs.png)https://nautalis.net/extras/imagenes/2023/nautalis.es.vKUsfNybwu32XPJYmk8fjRCe6lUAURnxrqWmDDjb5PBvXSxcfs.png" />
+<img src="img/hhtt.png" height="50 px" width="50 px"> <img src="img/CSS3_logo.svg.png" height="50 px" width="50 px"> 
+<img src="img/4g.png" height="50 px" width="auto"> 
+
+#
+## About me
+I've studied Psychology but technologies have always been part of my life.
+
+I've worked as Videoproducer for several years where designing has alfo formed part of my job.
+Currently I'm studying Full Stack Developement at 4Geeks Academy
+
+You can know more about me clicking here: &nbsp; <a href="https://www.linkedin.com/in/robert-tovar-0b8371132"><img src="img/LinkedIn_logo_initials.png" height="20 px" width="20 px"></a>
+
